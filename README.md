@@ -35,4 +35,8 @@ Peak hours show higher waiting times.
 The dashboard helps identify busy periods and support better staffing decisions.
 
 Here is the snapshot of the report:
+https://github.com/SaikeerthiBannur/Hospital-Emergency-Room-Analysis/blob/main/Monthly%20view.png
+https://github.com/SaikeerthiBannur/Hospital-Emergency-Room-Analysis/blob/main/Monthly%20view.png
+https://github.com/SaikeerthiBannur/Hospital-Emergency-Room-Analysis/blob/main/Patient%20Details.png
+https://github.com/SaikeerthiBannur/Hospital-Emergency-Room-Analysis/blob/main/Key%20Takeways.png
 
